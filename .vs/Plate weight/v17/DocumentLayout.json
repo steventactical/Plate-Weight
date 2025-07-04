@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio\\source\\repos\\Plate weight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D21A2-D083-4B8C-B7E0-6785AC9B3280}|Plate weight\\Plate weight.csproj|f:\\visual studio\\source\\repos\\plate weight\\plate weight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D21A2-D083-4B8C-B7E0-6785AC9B3280}|Plate weight\\Plate weight.csproj|solutionrelative:plate weight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D21A2-D083-4B8C-B7E0-6785AC9B3280}|Plate weight\\Plate weight.csproj|f:\\visual studio\\source\\repos\\plate weight\\plate weight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A82D21A2-D083-4B8C-B7E0-6785AC9B3280}|Plate weight\\Plate weight.csproj|solutionrelative:plate weight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Visual Studio\\source\\repos\\Plate weight\\Plate weight\\Form1.cs",
+              "RelativeDocumentMoniker": "Plate weight\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio\\source\\repos\\Plate weight\\Plate weight\\Form1.cs",
+              "RelativeToolTip": "Plate weight\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:08:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studio\\source\\repos\\Plate weight\\Plate weight\\Form1.cs",
+              "RelativeDocumentMoniker": "Plate weight\\Form1.cs",
+              "ToolTip": "F:\\Visual Studio\\source\\repos\\Plate weight\\Plate weight\\Form1.cs [Design]",
+              "RelativeToolTip": "Plate weight\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:07:43.868Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

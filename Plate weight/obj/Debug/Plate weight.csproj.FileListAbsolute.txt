@@ -1,0 +1,20 @@
+C:\Users\slynch\source\repos\Plate weight\Plate weight\bin\Debug\Plate weight.exe.config
+C:\Users\slynch\source\repos\Plate weight\Plate weight\bin\Debug\Plate weight.exe
+C:\Users\slynch\source\repos\Plate weight\Plate weight\bin\Debug\Plate weight.pdb
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.csprojAssemblyReference.cache
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate_weight.Form1.resources
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate_weight.Properties.Resources.resources
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.csproj.GenerateResource.cache
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.csproj.CoreCompileInputs.cache
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.exe
+C:\Users\slynch\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.pdb
+F:\Visual Studio\source\repos\Plate weight\Plate weight\bin\Debug\Plate weight.exe.config
+F:\Visual Studio\source\repos\Plate weight\Plate weight\bin\Debug\Plate weight.exe
+F:\Visual Studio\source\repos\Plate weight\Plate weight\bin\Debug\Plate weight.pdb
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.csproj.AssemblyReference.cache
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate_weight.Form1.resources
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate_weight.Properties.Resources.resources
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.csproj.GenerateResource.cache
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.csproj.CoreCompileInputs.cache
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.exe
+F:\Visual Studio\source\repos\Plate weight\Plate weight\obj\Debug\Plate weight.pdb
